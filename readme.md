@@ -1,4 +1,4 @@
-Hi! 👋 I'm Phil. Here is what's insteresting to me:
+Hi! 👋 I'm Phil. Here are some things that insterest me:
 
 -  startups, co-founding, entrepreneurship, impact, market fit
 -  AI, ML (of course)
