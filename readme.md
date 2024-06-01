@@ -10,4 +10,4 @@
 > 
 > 🔬 Bio/health-tech, molecular machines, aging (my new passion after surviving covid19)
 
-[🔗 more about me](https://www.pmunin.com/p/about.html)
+<a target="_blank" href="https://www.pmunin.com/p/about.html">🔗 more about me</a>
